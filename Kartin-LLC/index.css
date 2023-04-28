@@ -1,0 +1,98 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.logo {
+  border-style: none;
+  border-width: 0px;
+  height: 100px;
+  width: 100px;
+}
+
+.text {
+  font-family: "";
+  font-size: 50px;
+  font-weight: bold;
+  padding-top: 25px;
+}
+
+.text1 {
+  color: #4361ee;
+}
+
+.line {
+  width: 250px;
+  height: 10px;
+  background-color: #70e000;
+}
+
+.text2 {
+  font-size: 30px;
+  font-weight: 500;
+  padding-top: 20px;
+}
+
+.image {
+  height: 150px;
+  width: 250px;
+}
+
+.paragraph {
+  display: flex;
+  flex-direction: row;
+  padding-top: 20px;
+}
+
+.side-text {
+  padding: 10px;
+}
+
+.content {
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.clr-text {
+  color: #70e000;
+}
+
+.note {
+  color: #003566;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.a {
+  width: 50vw;
+  color: #b7b7a4;
+}
+
+.activity {
+  color: #003566;
+  font-weight: bold;
+  padding: 10px;
+  width: 20vw;
+  font-size: 25px;
+}
+
+.box {
+  width: 20vw;
+}
+
+.list {
+  color: #6b705c;
+  font-weight: 500;
+  padding: 5px;
+}
+
+li {
+  list-style: none;
+}
+
+li::before {
+  content: "\00BB";
+  padding-right: 20px;
+}
+
+.table {
+  display: flex;
+  flex-direction: row;
+}
